@@ -1,0 +1,11 @@
+.link {
+    text-decoration: none;
+}
+.authMenu {
+    display: flex;
+    font-size: 25px;
+}
+.authMenu__item {
+    display: inline-block;
+    margin-right: 20px;
+}
