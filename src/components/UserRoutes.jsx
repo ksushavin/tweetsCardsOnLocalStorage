@@ -14,7 +14,7 @@ const UserRoutes = () => {
     return (
         <Suspense fallback={<Loader />}>
             <Routes>
-                <Route path="/" element={<HomePage />} />
+                <Route path="/goit-react-hw-08-phonebook" element={<HomePage />} />
                 <Route element={<PublicRoute />}>
                     <Route path="/register" element={<RegisterPage />} />
                     <Route path="/login" element={<LoginPage />} />
