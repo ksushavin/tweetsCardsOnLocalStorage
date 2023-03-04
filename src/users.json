@@ -1,0 +1,67 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "user": "Elon Reeve Musk",
+            "tweets": 777,
+            "followers": 100500,
+            "avatarUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/96be2232163929.567197ac6fb64.png"
+        },
+        {
+            "id": 2,
+            "user": "Eli Crus",
+            "tweets": 350,
+            "followers": 300,
+            "avatarUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/b3053232163929.567197ac6e6f5.png"
+        },
+        {
+            "id": 3,
+            "user": "Alla Moi",
+            "tweets": 270,
+            "followers": 400,
+            "avatarUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/96be2232163929.567197ac6fb64.png"
+        },
+        {
+            "id": 4,
+            "user": "Nina Vovk",
+            "tweets": 320,
+            "followers": 450,
+            "avatarUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/96be2232163929.567197ac6fb64.png"
+        },
+        {
+            "id": 5,
+            "user": "Peter Kors",
+            "tweets": 421,
+            "followers": 8650,
+            "avatarUrl": "https://cours-informatique-gratuit.fr/wp-content/uploads/2017/10/avatar.png"
+        },
+        {
+            "id": 6,
+            "user": "Eva Roum",
+            "tweets": 385,
+            "followers": 13193,
+            "avatarUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/96be2232163929.567197ac6fb64.png"
+        },
+        {
+            "id": 7,
+            "user": "Sali Saliman",
+            "tweets": 176,
+            "followers": 2378,
+            "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZyF0Ygi5s9qORyhYd920Fir9vS3a7-aN2zyw1wCPRgICyg5rX0cCwUkU2Pm1AcBr1_2c&usqp=CAU"
+        },
+        {
+            "id": 8,
+            "user": "Rik Dik",
+            "tweets": 67,
+            "followers": 267,
+            "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5JEfizTQCJZbjHcCVNpxUSoRVf46qDq_oi-I0bMhYt5ajzGJChRo4SzigVoFO3TKwK_U&usqp=CAU"
+        },
+        {
+            "id": 9,
+            "user": "Tom Hanz",
+            "tweets": 482,
+            "followers": 11890,
+            "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStAE-894vdg4AuTPm9B5CCXcTzggM8MFlKYXFVMmnBJRzBh9i70vAl_E-g-IxGT9BKJnk&usqp=CAU"
+        }
+    ]
+}

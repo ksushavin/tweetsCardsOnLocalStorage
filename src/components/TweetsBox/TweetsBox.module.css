@@ -1,0 +1,25 @@
+.text_box {
+    margin-top: 45px;
+    text-align: center;
+
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #EBD8FF;
+}
+
+.user {
+    font-family: inherit;
+    font-size: 20px;
+    font-weight: 500;
+    color: #facd51;
+}
+.tweets {
+    margin-top: 18px;
+    font-size: 18px;
+}
+.followers_count {
+    margin-top: 10px;
+    font-size: 18px;
+}
